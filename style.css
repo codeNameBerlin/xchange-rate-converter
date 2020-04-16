@@ -60,6 +60,10 @@ p {
 	background-repeat: no-repeat;
 }
 
+select > * {
+	background-color: #f4f4f4;
+}
+
 .currency input {
 	border: 0;
 	background: transparent;
